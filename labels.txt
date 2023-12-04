@@ -1,3 +1,4 @@
-0 Verde
-1 Café
-2 Transparente
+0 Brown glass
+1 White glass
+2 Green glass
+3 Fondo
