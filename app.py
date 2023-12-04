@@ -38,6 +38,6 @@ if img_file_buffer is not None:
     if prediction[0][2]>0.5:
       st.header('Botella verde, con Probabilidad: '+str( prediction[0][2]))
     if prediction[0][3]>0.5:
-      st.header('Fondo, con Probabilidad: '+str( prediction[0][2]))
+      st.header('Fondo, con Probabilidad: '+str( prediction[0][3]))
 
 
